@@ -1,0 +1,10 @@
+{
+  "name": "nexus-asset-studio-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix NEXUS_ThreeJS_Asset_Studio run dev",
+    "build": "npm --prefix NEXUS_ThreeJS_Asset_Studio run build",
+    "preview": "npm --prefix NEXUS_ThreeJS_Asset_Studio run preview"
+  }
+}
+

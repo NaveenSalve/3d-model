@@ -1,0 +1,13 @@
+node_modules/
+dist/
+NEXUS_CORE_Install/
+*.gguf
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vite/
+# Windows reserved device name — cannot be indexed by git
+nul.css
